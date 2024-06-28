@@ -14,7 +14,7 @@ provider "aws" {
 terraform {
   backend "s3" {
     bucket = "ash-ter-cert-bucket-2024"
-    key    = "terraform.tfstate"
+    key    = "TFStatefile/terraform.tfstate"
     region = "eu-west-1"
   }
 }
