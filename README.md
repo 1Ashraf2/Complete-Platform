@@ -8,3 +8,5 @@ Amazon CloudFront is a Content Delivery Network service, that provides access to
 
 <img width="362" alt="Screenshot 2024-08-16 at 12 17 25" src="https://github.com/user-attachments/assets/8e3b6634-9b3a-4322-a8fb-a27f56911790">
 
+An SNS topic with an email address is used as an endpoint.
+CloudWatch Agent is installed to send alarms and alerts.
