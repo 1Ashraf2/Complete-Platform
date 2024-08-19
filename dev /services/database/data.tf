@@ -1,0 +1,1 @@
+data "aws_default_vpc" "default" {}
