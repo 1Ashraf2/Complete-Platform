@@ -1,4 +1,7 @@
 This project involves the implementation of infrastructure and services for a self-storage company.
+
+<img width="461" alt="Screenshot 2024-08-19 at 20 41 56" src="https://github.com/user-attachments/assets/069d4796-7f44-47ee-ab9f-71fb025fe607">
+
 The system is highly available:
 
 <img width="437" alt="Screenshot 2024-08-16 at 12 17 54" src="https://github.com/user-attachments/assets/d405003f-8cb1-4848-954a-4f277bedb453">
